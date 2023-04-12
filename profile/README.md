@@ -38,6 +38,7 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 Within the last year:
 
+* PicoCTF 2023: 2nd Globally
 * PicoCTF 2022: 4th Globally, 1st in Canada
 * CyberSciCTF 2022: 3rd in Ontario, 5th in Canada
 * Participants at GoogleCTF 2022, DownUnderCTF 2022
