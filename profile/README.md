@@ -38,7 +38,38 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 Within the last year:
 
-* PicoCTF 2023: 2nd Globally
-* PicoCTF 2022: 4th Globally, 1st in Canada
-* CyberSciCTF 2022: 3rd in Ontario, 5th in Canada
-* Participants at GoogleCTF 2022, DownUnderCTF 2022
+1st:
+
+🥇 n00bzCTF 2024
+
+🥇 Interlogica CTF2024 - Wastelands
+
+🥇 CTF@CIT 2024
+
+🥇 ISSessions Espionage CTF 2024
+
+🥇 MagpieCTF 2024
+
+🥇 QueensCTF 2024
+
+2nd:
+
+🥈 N0PSctf 2024
+
+🥈 PicoCTF 2023 (Undergraduate Leaderboard)
+
+🥈 CyberSci 2023 Regional Qualifiers
+
+3rd:
+
+🥉 Junior.Crypt.2024 CTF
+
+🥉 BCACTF 5.0
+
+🥉 SpringForwardCTF 2024
+
+4th:
+
+BYUCTF 2024
+
+TBTL CTF 2024 
