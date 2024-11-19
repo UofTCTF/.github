@@ -39,6 +39,11 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 Within the last year:
 
 1st:
+🥇 Ontario Cyber Security Center of Excellence: Crack the Code Capture the Flag Event
+
+🥇 Metared Argentina CERTUNLP
+
+🥇 Patriot CTF 2024 (Student Leaderboard)
 
 🥇 n00bzCTF 2024
 
@@ -53,6 +58,7 @@ Within the last year:
 🥇 QueensCTF 2024
 
 2nd:
+🥈 BlockCTF 2024
 
 🥈 N0PSctf 2024
 
@@ -61,6 +67,9 @@ Within the last year:
 🥈 CyberSci 2023 Regional Qualifiers
 
 3rd:
+🥉 COMPFEST CTF 2024
+
+🥉 DEADFACE CTF 2024
 
 🥉 Junior.Crypt.2024 CTF
 
