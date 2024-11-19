@@ -39,6 +39,7 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 Within the last year:
 
 1st:
+
 🥇 Ontario Cyber Security Center of Excellence: Crack the Code Capture the Flag Event
 
 🥇 Metared Argentina CERTUNLP
