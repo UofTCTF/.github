@@ -59,6 +59,7 @@ Within the last year:
 🥇 QueensCTF 2024
 
 2nd:
+
 🥈 BlockCTF 2024
 
 🥈 N0PSctf 2024
@@ -68,6 +69,7 @@ Within the last year:
 🥈 CyberSci 2023 Regional Qualifiers
 
 3rd:
+
 🥉 COMPFEST CTF 2024
 
 🥉 DEADFACE CTF 2024
