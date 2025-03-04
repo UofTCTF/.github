@@ -38,6 +38,8 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 1st:
 
+🥇 @HackCTF 2025
+
 🥇 MagpieCTF 2025
 
 🥇 ISSessionsCTF 2025
