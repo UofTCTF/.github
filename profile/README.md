@@ -42,6 +42,8 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 🥇 National Cybersecurity Consortium CTF 2025
 
+🥇 @USask Illuminati CTF 2025
+
 🥇 @HackCTF 2025
 
 🥇 MagpieCTF 2025
