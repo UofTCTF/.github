@@ -42,6 +42,8 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 🥇 National Cybersecurity Consortium CTF 2025
 
+🥇 TJCTF 2025 (Open Division)
+
 🥇 @USask Illuminati CTF 2025
 
 🥇 @HackCTF 2025
@@ -69,8 +71,6 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 🥇 QueensCTF 2024
 
 2nd:
-
-🥈 TJCTF 2025
 
 🥈 BlockCTF 2024
 
