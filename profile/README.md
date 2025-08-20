@@ -76,8 +76,6 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 2nd:
 
-🥈 TJCTF 2025
-
 🥈 BlockCTF 2024
 
 🥈 N0PSctf 2024
