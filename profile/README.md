@@ -38,6 +38,8 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 1st:
 
+🥇 CUCyberSec CTF 2025
+
 🥇 scriptCTF 2025
 
 🥇 DeadSec CTF 2025
