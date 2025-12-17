@@ -38,6 +38,10 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 1st:
 
+🥇 Patriot CTF 2025 (Student Leaderboard)
+
+🥇 CyberSci Regional Qualifier 2025
+
 🥇 CUCyberSec CTF 2025
 
 🥇 scriptCTF 2025
