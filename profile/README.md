@@ -82,6 +82,8 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 2nd:
 
+🥈 COMPFEST CTF 2025
+
 🥈 BlockCTF 2024
 
 🥈 N0PSctf 2024
@@ -91,6 +93,12 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 🥈 CyberSci 2023 Regional Qualifiers
 
 3rd:
+
+🥉 HeroCTF v7
+
+🥉 AmateursCTF 2025
+
+🥉 Lexington Informatics Tournament CTF 2025
 
 🥉 BCACTF 6.0
 
