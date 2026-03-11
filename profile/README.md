@@ -38,6 +38,10 @@ PicoCTF is a great CTF for beginners: [https://picoctf.org/](https://picoctf.org
 
 1st:
 
+🥇 @Hack CTF 2026
+
+🥇 Langara CTF 2026
+
 🥇 Scarlet CTF 2026
 
 🥇 Patriot CTF 2025 (Student Leaderboard)
